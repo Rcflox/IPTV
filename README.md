@@ -1,1 +1,1 @@
-# IPTV Lista de canales IPTV
+# IPTV Lista de canales
