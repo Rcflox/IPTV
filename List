@@ -6,7 +6,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Rcflox/IPTV/main/List
-#ultima actualizacion:19/07/2021
+#ultima actualizacion:25/10/2022
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -24,6 +24,15 @@ https://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bph4w2.png" group-title="Familiares", -Familiares-
 https://i.imgur.com/KuqaZul.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.imgur.com/oNmtnby.png" group-title="Familiares",ACS NETWORK TV | USA
+https://acs.amelbasoluciones.co:3598/live/acsnetworklive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/G9gjpVi.png" group-title="JOVENES Y ADULTOS",Animax Asia | Asia
+https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/G9gjpVi.png" group-title="Familiares",Animax Spain | ES
+https://piczel.tv/hls/91280/index.m3u8
+
 #EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="Familiares", Anime Zone TV | AR
 http://animezonetv.net/hls/stream.m3u8?
 
@@ -34,7 +43,6 @@ https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://i2.paste.pics/363bdf769b4b91716d6ebb6db72d1d4b.png" group-title="Familiares", Chavo TV | CL
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="48" tvg-name="Cloud Server Kids" tvg-logo="https://i2.paste.pics/274ff2c35f3c15674e5e8c580baec385.png" group-title="Familiares", Cloud Server Kids | CL
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8
@@ -55,14 +63,11 @@ https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 #EXTINF:-1 tvg-id="792" tvg-name="Etc TV" tvg-logo="https://lh3.googleusercontent.com/-ja67hoMAcTg/YHTMV3U0IAI/AAAAAAABBXg/NR0gddxhYwo40O6_A5dSQJBMUAyHdEiywCK8BGAsYHg/s512/2021-04-12.png" group-title="Familiares", Etc TV | CL
 https://unlimited2-cl-isp.dps.live/etctv/etctv.smil/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="909" tvg-name="Kanade TV" tvg-logo="https://i2.paste.pics/5a7804b203e6167e010d4de31ae9390d.png", Kanade TV | CL
 http://64.20.57.7:8080/hls/enfoque.m3u8
 
-
 #EXTINF:-1 tvg-id="1035" tvg-name="Kids90" tvg-logo="https://i2.paste.pics/4a39976590ab0bd4fe7a0bbbd4411822.png", Kids90 | CL
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV | UY
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8?PlaylistM3UCL
@@ -74,6 +79,11 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png", Locomotion | AR
 http://51.222.85.85:81/hls/loco/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XeRTSpp.png" group-title="Familiares",Magic Club HD | AR
+https://cloud.odysee.live/live/c8f16b77f3e3f06149a345bb83a7a6d689f687f4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XeRTSpp.png" group-title="Familiares",Magic Club SD | AR
+https://livestreams.flote.app:5443/flote/streams/4b077525-6261-42ae-8941-d3804cc87e2f.m3u8
 
 #EXTINF:-1 tvg-id="45" tvg-name="NTV" tvg-logo="https://i2.paste.pics/49116db7b95befdabb207ccbd2bb94b6.png", NTV | CL
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
