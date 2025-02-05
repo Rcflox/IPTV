@@ -21,84 +21,90 @@ https://
 
 #*****************************
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3bph4w2.png" group-title="Familiares", -Familiares-
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3bph4w2.png" group-title="Animación y Cultura Geek", [COLOR lime]-Animación-[/COLOR] 
 https://i.imgur.com/KuqaZul.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.imgur.com/oNmtnby.png" group-title="Familiares",ACS NETWORK TV | SD | USA
-https://acs.amelbasoluciones.co:3598/live/acsnetworklive.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/G9gjpVi.png" group-title="JOVENES Y ADULTOS",Animax Asia | SD | Asia
-https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/G9gjpVi.png" group-title="Familiares",Animax Spain | SD | España
-https://piczel.tv/hls/91280/index.m3u8
-
-#EXTINF:-1 tvg-ID="ANIME TV" tvg-logo="https://i.imgur.com/8w6Y56I.png" group-title="JOVENES Y ADULTOS",Anime TV  | SD | Brasil
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-
-#EXTINF:-1 tvg-ID="ANI TV" tvg-logo="https://i.imgur.com/3lJZ1ky.png" group-title="JOVENES Y ADULTOS",Ani TV  | SD | Brasil
-https://tv01.livemustv.com.br/livemustv1358/livemustv1358/chunklist_w1027568536.m3u8
-
-#EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="Familiares", Anime Zone TV | SD | AR
+#EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="Animación y Cultura Geek", Anime Zone TV | SD | AR
 http://animezonetv.net/hls/stream.m3u8?
 
-#EXTINF:-1 tvg-id="1081" tvg-name="Aniplus" tvg-logo="https://i2.paste.pics/7ad3396e3452a6091357ca64d5cb8951.png" group-title="Familiares", Aniplus | SD | Argentina
-https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="48" tvg-name="Cloud Server Kids" tvg-logo="https://i2.paste.pics/274ff2c35f3c15674e5e8c580baec385.png" group-title="Familiares", Cloud Server Kids | CL
-https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rvRB0hb.png" group-title="Animación y Cultura Geek", Boing | HD | España
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://lh3.googleusercontent.com/-xWaIYbcKgvg/XqxwUMJVw3I/AAAAAAAAyhA/m5qZwYnbFxMujB_7Sk2QJz4HhvdNRqyHQCK8BGAsYHg/s0/2020-05-01.png" group-title="Familiares", Dreiko TV  | HD | Panamá
-https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2wEb8T6.png" group-title="Animación y Cultura Geek", Clan | HD | España
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
-#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Señal 1" tvg-logo="https://i2.paste.pics/6e12320dbdc58fc4ae26350c244f72af.png" group-title="Familiares", EnerGeek Señal 1  | HD | Chile
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2wEb8T6.png" group-title="Animación y Cultura Geek", Clan | HD | España | Alt.
+https://rtvelivestream-clnx.rtve.es/rtvesec/int/clan_int_main.m3u8
 
-#EXTINF:-1 tvg-id="1112" tvg-name="Energeek Señal 2" tvg-logo="https://i2.paste.pics/ec9a99d22c4dd4a38c9af9c016019d88.png" group-title="Familiares", Energeek Señal 2 | HD | Chile
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ixrELD7.png" group-title="Animación y Cultura Geek", ZTV Anime | HD | Chile
+https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="1230" tvg-name="EnerGeek Señal 3" tvg-logo="https://i2.paste.pics/2bf75a344d4cf7c2530247f14e101d84.png" group-title="Familiares", EnerGeek Señal 3 | HD | Chile
-https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ls5K3WG.png" group-title="Familiares",EnerGeek Senal 4 | HD | Chile
-https://live.tubyte.xyz/LiveApp/streams/531839509402196773557900.m3u8
-
-#EXTINF:-1 tvg-id="792" tvg-name="Etc TV" tvg-logo="https://lh3.googleusercontent.com/-ja67hoMAcTg/YHTMV3U0IAI/AAAAAAABBXg/NR0gddxhYwo40O6_A5dSQJBMUAyHdEiywCK8BGAsYHg/s512/2021-04-12.png" group-title="Familiares", Etc TV | HD  | Chile
-https://unlimited2-cl-isp.dps.live/etctv/etctv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="909" tvg-name="Kanade TV" tvg-logo="https://i2.paste.pics/5a7804b203e6167e010d4de31ae9390d.png", Kanade TV | HD  | Chile
-http://64.20.57.7:8080/hls/enfoque.m3u8
-
-#EXTINF:-1 tvg-id="1035" tvg-name="Kids90" tvg-logo="https://i2.paste.pics/4a39976590ab0bd4fe7a0bbbd4411822.png", | SD | Kids90 | Chile
-https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV  | HD | Urugay
-https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Familiares", Locomotion | SD | República Dominicana 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C4gpykz.png" group-title="Animación y Cultura Geek", Locomotion | SD | República Dominicana 
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XeRTSpp.png" group-title="Familiares",Magic Club HD  | HD | Argentina
-https://cloud.odysee.live/live/c8f16b77f3e3f06149a345bb83a7a6d689f687f4.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3kJBmul.png" group-title="Animación y Cultura Geek", Anime Tal Tal TV  | HD | Chile
+https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XeRTSpp.png" group-title="Familiares",Magic Club SD  | SD | Argentina
-https://livestreams.flote.app:5443/flote/streams/4b077525-6261-42ae-8941-d3804cc87e2f.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YM56WZg.png" group-title="Animación y Cultura Geek", Aniretro | HD | Chile
+https://tv.streaming-chile.com:19360/8068/8068.m3u8
 
-#EXTINF:-1 tvg-id="45" tvg-name="NTV" tvg-logo="https://i2.paste.pics/49116db7b95befdabb207ccbd2bb94b6.png" group-title="Familiares" , | SD | NTV | Chile
-https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/4Wi6WcF.png" group-title="Animación y Cultura Geek", Dreiko TV | HD | Panamá
+https://cloudvideo.servers10.com:8081/8096/index.m3u8
 
-#EXTINF:-1 tvg-id="206" tvg-name="Paka Paka" tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg" group-title="Familiares", Paka Paka | AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wOc2Bx3.png" group-title="Animación y Cultura Geek", Moni TV | FHD | Chile
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
-#EXTINF:-1 tvg-id="200" tvg-name="Pequeradio TV" tvg-logo="https://lh3.googleusercontent.com/-5wlAQ6nLfW4/YF5I0iHgH3I/AAAAAAABA90/HsqEimRfhGARstgd044vc0ZkynUYntbTACK8BGAsYHg/s512/2021-03-26.jpg" group-title="Familiares", Pequeradio TV | ES
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/eQEQiSe.png" group-title="Animación y Cultura Geek", FMH Kids | FHD | Perú
+https://live-zlr1.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1015" tvg-name="PlanetaTV Kids" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Familiares", PlanetaTV Kids | SD | España
-https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NY6SGkv.png" group-title="Animación y Cultura Geek", Metaversus TV | SD | Costa Rica
+https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Familiares",Retro Magico | SD | Argentina
-https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/S1MTdTx.png" group-title="Animación y Cultura Geek", Invasiva Media | HD | Paraguay
+https://tv.invasivamedia.com/hls/limtv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tE2nMTe.jpg" group-title="Familiares",Toonizaki | SD | España
-https://stitcher.michyplus.xyz/stream/lolistv.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OR6mxRB.png" group-title="Animación y Cultura Geek", Energeek | FHD | Chile
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/VR5MaYD.png" group-title="Animación y Cultura Geek", Energeek Radio | FHD | Chile
+https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nGdubVQ.png" group-title="Animación y Cultura Geek", Energeek Fan | FHD | Chile
+https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/pqWmos0.png" group-title="Animación y Cultura Geek", Kanade TV | FHD | Chile
+https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/do1lapa.png" group-title="Animación y Cultura Geek", Max Anime | HD | Venezuela
+https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/q2Fd958.png" group-title="Animación y Cultura Geek", Big Channel | SD | Argentina
+https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hc1Lvl7.png" group-title="Animación y Cultura Geek", Retro Magico | HD | Argentina
+https://ssh101.bozztv.com/ssh101/retromagicochnl/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/m13TjiR.png" group-title="Animación y Cultura Geek", Magic | SD | Argentina
+https://magicstream.ddns.net/magicstream/stream.m3u8 
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/EZOV8LH.png" group-title="Animación y Cultura Geek", Gogoplay | HD | Bolivia
+https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/EZOV8LH.png" group-title="Animación y Cultura Geek", Gogoplay | SD | Bolivia
+https://ssh101-fl.bozztv.com/ssh101/gogoplaysd/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zm2zree.png" group-title="Animación y Cultura Geek", Latinokids  | SD | Uruguay
+https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/juUkPQy.png" group-title="Animación y Cultura Geek", Pitufo TV | HD | Reino Unido
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iuxxlDA.png" group-title="Animación y Cultura Geek", Opinión Sur Cine | HD | Puerto Natales
+https://fl1002.bozztv.com/ssh101/opinionsur/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iuxxlDA.png" group-title="Animación y Cultura Geek", Opinión Sur Niños | HD | Puerto Natales
+https://fl1002.bozztv.com/ssh101/opinionsurn/tracks-v1a1/mono.m3u8
+
 
