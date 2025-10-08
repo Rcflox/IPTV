@@ -1,7 +1,5 @@
 #EXTM3U
 
-
-
 #pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 #
 #Canales de TV y Radios online
@@ -16,97 +14,92 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 #       Lista IPTV basada en el extinto proyecto Laope y la lista Televito.
 
-#EXTINF:-1 tvg-logo="https://" group-title="Leeme",- Última Actualización - 5/02/2025 -
+#EXTINF:-1 tvg-logo="https://" group-title="Leeme",- Última Actualización - 07/10/2025 -
 https://
 
 #*****************************
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", [COLOR lime]-Animación-[/COLOR] 
-2https://i.imgur.com/Xvfqdgc.mp4
+https://i.imgur.com/Xvfqdgc.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Aniretro | HD | Chile
-3https://tv.streaming-chile.com:19360/8068/8068.m3u8
+https://tv.streaming-chile.com:19360/8068/8068.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", AnimeStation | HD | Argentina
-4https://tv.streaming-chile.com:19360/8068/8068.m3u8
+https://tv.streaming-chile.com:19360/8068/8068.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Anime Tal Tal TV  | HD | Chile
-5https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
+https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Anime Zone TV | SD | República 
-
-Dominicana 
-6http://animezonetv.net/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Anime Zone TV | SD | República Dominicana 
+http://animezonetv.net/hls/stream.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Big Channel | SD | Argentina
-7https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8
+https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Clan | HD | España
-8https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Clan | HD | España | Alt.
-9https://rtvelivestream-clnx.rtve.es/rtvesec/int/clan_int_main.m3u8
+https://rtvelivestream-clnx.rtve.es/rtvesec/int/clan_int_main.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Dreiko TV | HD | Panamá
-10https://cloudvideo.servers10.com:8081/8096/index.m3u8
+https://cloudvideo.servers10.com:8081/8096/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", FMH Kids | FHD | Perú
-11https://live-zlr1.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8
+https://live-zlr1.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Energeek | FHD | Chile
-12https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Energeek Radio | FHD | Chile
-13https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
+https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Energeek Fan | FHD | Chile
-14https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
+https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Gogoplay | HD | Bolivia
-16https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8
+https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Gogoplay | SD | Bolivia
-17https://ssh101-fl.bozztv.com/ssh101/gogoplaysd/tracks-v1a1/mono.m3u8
+https://ssh101-fl.bozztv.com/ssh101/gogoplaysd/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Kanade TV | FHD | Chile
-18https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
+https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Latinokids | SD | Uruguay
-19https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
+https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Locomotion | SD | República 
-
-Dominicana 
-20http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Locomotion | SD | República Dominicana 
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Magic | SD | Argentina
-21https://magicstream.ddns.net/magicstream/stream.m3u8 
+https://magicstream.ddns.net/magicstream/stream.m3u8 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Moni TV | SD | Chile
 https://tv.arkeo.cl:19360/8134/8134.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", NTV | SD | Chile
-22https://marine2.miplay.cl/ntv/playlist.m3u8
+https://marine2.miplay.cl/ntv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Pequeradio TV | HD | España
-23https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Pitufo TV | HD | Reino Unido
-24https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Retro Magico | HD | Argentina
-25https://ssh101.bozztv.com/ssh101/retromagicochnl/chunks.m3u8
+https://ssh101.bozztv.com/ssh101/retromagicochnl/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", VariedTV | HD | Argentina
-26https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", ZyoonTV | HD | Chile
-27-
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ixrELD7.png" group-title="Animación y Cultura Geek", ZTV Anime | HD | Chile
-28-https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8
+https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9NGAIom.png" group-title="Freetv.com", [COLOR lime]-Freetv.com-[/COLOR] 
 https://i.imgur.com/Xvfqdgc.mp4
