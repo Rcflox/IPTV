@@ -105,7 +105,7 @@ https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9NGAIom.png" group-title="Freetv.com", [COLOR lime]-Freetv.com-[/COLOR] 
 https://i.imgur.com/Xvfqdgc.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ixrELD7.png" group-title="Freetv.com", Acción - Freetv.com | HD | USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9NGAIom.png" group-title="Freetv.com", Acción - Freetv.com | HD | USA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9NGAIom.png" group-title="Freetv.com", Banda - Freetv.com | HD | USA
@@ -114,10 +114,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9NGAIom.png" group-title="Freetv.com", Drama - Freetv.com | HD | USA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ixrELD7.png" group-title="Freetv.com", Estelar - Freetv.com | HD | USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9NGAIom.png" group-title="Freetv.com", Estelar - Freetv.com | HD | USA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ixrELD7.png" group-title="Freetv.com", Familia - Freetv.com | HD | USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9NGAIom.png" group-title="Freetv.com", Familia - Freetv.com | HD | USA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9NGAIom.png" group-title="Freetv.com", Hits - Freetv.com | HD | USA
