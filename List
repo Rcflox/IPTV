@@ -13,6 +13,7 @@
 #	En la configuración de PVR IPTV Simple Client elegir ruta remota y agregar https://raw.githubusercontent.com/Rcflox/IPTV/main/List
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 #       Lista IPTV basada en el extinto proyecto Laope y la lista Televito.
+#       Tiene menos canales pero más agrupados por función.
 
 #EXTINF:-1 tvg-logo="https://" group-title="Leeme",- Última Actualización - 07/10/2025 -
 https://
