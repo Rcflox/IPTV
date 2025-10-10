@@ -33,7 +33,13 @@ https://tv.streaming-chile.com:19360/8068/8068.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Anime Tal Tal TV  | HD | Chile
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Anime Zone TV | SD | República Dominicana 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUpKznl.png" group-title="Animación", Anime Vision | HD | España
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aYptdKX.png" group-title="Animación", Anime Vision Classics | HD | España
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Anime Zone TV | SD | República Dominicana 
 http://animezonetv.net/hls/stream.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Big Channel | SD | Argentina
@@ -102,13 +108,6 @@ https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ixrELD7.png" group-title="Animación", ZTV Anime | HD | Chile
 https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pUpKznl.png" group-title="Animación", Anime Vision | HD | España
-https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aYptdKX.png" group-title="Animación", Anime Vision Classics | HD | España
-https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9NGAIom.png" group-title="Freetv.com", [COLOR lime]-Freetv.com-[/COLOR] 
 https://i.imgur.com/Xvfqdgc.mp4
 
@@ -166,24 +165,24 @@ http://176.65.146.237:8401/play/a0ae/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="Internacionales", Antena 3 Internacional | SD | España
 http://38.180.133.31:8000/play/a0ki/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8ZR2XHN.png" group-title="Internacionales", TVN3 | FHD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8ZR2XHN.png" group-title="Internacionales", TVN3 | FHD | Chile
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Vt424Nn.png" group-title="Internacionales", TVN Chile | HD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Vt424Nn.png" group-title="Internacionales", TVN Chile | HD | Chile
 https://marine2.miplay.cl/tvnchile/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="Internacionales", Mega | SD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="Internacionales", Mega | SD | Chile
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nlLc8GA.png" group-title="Internacionales", Chilevisión | FHD | Santiago
 https://i.imgur.com/V5j6nRj.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uJhREyl.png" group-title="Internacionales", Latina | HD | PE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uJhREyl.png" group-title="Internacionales", Latina | HD | Perú
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1aJZr2i.png" group-title="Internacionales", Panamericana | HD | Lima
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aJZr2i.png" group-title="Internacionales", Panamericana | HD | Perú
 http://38.183.182.166:8000/play/a0ii/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AKL82vl.png" group-title="Internacionales", Star TVE | SD | Madrid
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AKL82vl.png" group-title="Internacionales", Star TVE | SD | España
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_576.m3u8
 
