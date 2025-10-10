@@ -146,7 +146,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playli
 https://i.imgur.com/Xvfqdgc.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9NGAIom.png" group-title="Peliculas", AXN | HD | Chile
-https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
+https://streamer1.nexgen.bz/AXN/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Peliculas", MyTime Movie Network | HD | España
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
@@ -180,9 +180,6 @@ https://i.imgur.com/V5j6nRj.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJhREyl.png" group-title="Internacionales", Latina | HD | PE
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Internacionales", Panamericana | HD | PE
-https://cdnhd.iblups.com/hls/ptv5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1aJZr2i.png" group-title="Internacionales", Panamericana | HD | Lima
 http://38.183.182.166:8000/play/a0ii/index.m3u8
