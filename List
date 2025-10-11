@@ -24,12 +24,6 @@ https://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", [COLOR lime]-Animación-[/COLOR] 
 https://i.imgur.com/Xvfqdgc.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Aniretro | HD | Chile
-https://tv.streaming-chile.com:19360/8068/8068.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", AnimeStation | HD | Argentina
-https://tv.streaming-chile.com:19360/8068/8068.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Anime Tal Tal TV  | HD | Chile
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 
@@ -78,14 +72,8 @@ https://ssh101-fl.bozztv.com/ssh101/gogoplaysd/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Kanade TV | FHD | Chile
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Latinokids | SD | Uruguay
-https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1CSchVZ.png" group-title="Animación", Locomotion | SD | República Dominicana 
 http://85.239.54.197:81/live/loco_hi/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Magic | SD | Argentina
-https://magicstream.ddns.net/magicstream/stream.m3u8 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Moni TV | SD | Chile
 https://tv.arkeo.cl:19360/8134/8134.m3u8
@@ -98,9 +86,6 @@ http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Pitufo TV | HD | Reino Unido
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Retro Magico | HD | Argentina
-https://ssh101.bozztv.com/ssh101/retromagicochnl/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/UjsoSOV.png" group-title="Animación", VariedTV | HD | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
