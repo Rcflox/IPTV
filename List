@@ -66,7 +66,7 @@ https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Energeek Fan | FHD | Chile
 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", EpicToon | FHD | Chile
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Iuydj68.png" group-title="Animación", EpicToon | FHD | Chile
 https://sc1.wasidata.com/CartoonsPrime/video.m3u8?token=vibra060425&PlaylistM3UCL
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Gogoplay | HD | Bolivia
@@ -110,11 +110,6 @@ https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ixrELD7.png" group-title="Animación", ZTV Anime | HD | Chile
 https://mitv.zplay.cl/Ztv/index.m3u8
-
-
-#EXTINF:-1 tvg-id="1720" tvg-name="EpicToon" tvg-logo="https://cdn.m3u.cl/logo/1720_EpicToon.png", EpicToon | CL
-https://sc1.wasidata.com/CartoonsPrime/video.m3u8?token=vibra060425&PlaylistM3UCL
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9NGAIom.png" group-title="Freetv.com", [COLOR lime]-Freetv.com-[/COLOR] 
 https://i.imgur.com/Xvfqdgc.mp4
