@@ -39,7 +39,7 @@ https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aYptdKX.png" group-title="Animación", Anime Vision Classics | HD | España
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Anime Zone TV | SD | República Dominicana 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RvPalzV.png" group-title="Animación", Anime Zone TV | SD | República Dominicana 
 http://animezonetv.net/hls/stream.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Big Channel | SD | Argentina
@@ -54,7 +54,7 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/int/clan_int_main.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Dreiko TV | HD | Panamá
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", FMH Kids | FHD | Perú
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", FMH Kids | FHD | Perú
 https://live-zlr1.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Energeek | FHD | Chile
@@ -81,10 +81,10 @@ https://backend.energeek.cl/webtv/kanadeweb/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Latinokids | SD | Uruguay
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Locomotion | SD | República Dominicana 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1CSchVZ.png" group-title="Animación", Locomotion | SD | República Dominicana 
 http://85.239.54.197:81/live/loco_hi/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Magic | SD | Argentina
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Magic | SD | Argentina
 https://magicstream.ddns.net/magicstream/stream.m3u8 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Moni TV | SD | Chile
@@ -102,13 +102,13 @@ https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Retro Magico | HD | Argentina
 https://ssh101.bozztv.com/ssh101/retromagicochnl/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", VariedTV | HD | Argentina
+#EXTINF: -1 tvg-logo="https://i.imgur.com/UjsoSOV.png" group-title="Animación", VariedTV | HD | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", ZyoonTV | HD | Chile
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DhvPScW.png" group-title="Animación", ZyoonTV | HD | Chile
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ixrELD7.png" group-title="Animación", ZTV Anime | HD | Chile
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ao1cErG.png" group-title="Animación", ZTV Anime | HD | Chile
 https://mitv.zplay.cl/Ztv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9NGAIom.png" group-title="Freetv.com", [COLOR lime]-Freetv.com-[/COLOR] 
@@ -156,9 +156,6 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tixman6.png" group-title="Peliculas", MyTime Movie Network | HD | México
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Runtime", [COLOR lime]-Runtime-[/COLOR] 
-https://i.imgur.com/Xvfqdgc.mp4
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Internacionales", [COLOR lime]-Internacionales-[/COLOR] 
 https://i.imgur.com/Xvfqdgc.mp4
 
@@ -170,15 +167,6 @@ http://38.180.133.31:8000/play/a0ki/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8ZR2XHN.png" group-title="Internacionales", TVN3 | FHD | Chile
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Vt424Nn.png" group-title="Internacionales", TVN Chile | HD | Chile
-https://marine2.miplay.cl/tvnchile/mono.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="Internacionales", Mega | SD | Chile
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/nlLc8GA.png" group-title="Internacionales", Chilevisión | FHD | Santiago
-https://i.imgur.com/V5j6nRj.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJhREyl.png" group-title="Internacionales", Latina | HD | Perú
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
