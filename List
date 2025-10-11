@@ -15,7 +15,7 @@
 #       Lista IPTV basada en el extinto proyecto Laope y la lista Televito.
 #       Tiene menos canales pero más agrupados por función.
 
-#EXTINF:-1 tvg-logo="https://" group-title="Leeme",- Última Actualización - 07/10/2025 -
+#EXTINF:-1 tvg-logo="https://" group-title="Leeme",- Última Actualización - 11/10/2025 -
 https://
 
 #*****************************
@@ -188,3 +188,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8ZR2XHN.png" group-title="Internacionales", TVN3 | FHD | Chile
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://" group-title="Leeme",- Última Actualización - Fin de lista -
+https://
