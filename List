@@ -52,7 +52,7 @@ https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 https://rtvelivestream-clnx.rtve.es/rtvesec/int/clan_int_main.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Dreiko TV | HD | Panamá
-https://cloudvideo.servers10.com:8081/8096/index.m3u8
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", FMH Kids | FHD | Perú
 https://live-zlr1.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8
@@ -66,6 +66,9 @@ https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Energeek Fan | FHD | Chile
 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", EpicToon | FHD | Chile
+https://sc1.wasidata.com/CartoonsPrime/video.m3u8?token=vibra060425&PlaylistM3UCL
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Gogoplay | HD | Bolivia
 https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8
 
@@ -73,13 +76,13 @@ https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8
 https://ssh101-fl.bozztv.com/ssh101/gogoplaysd/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Kanade TV | FHD | Chile
-https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
+https://backend.energeek.cl/webtv/kanadeweb/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Latinokids | SD | Uruguay
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Locomotion | SD | República Dominicana 
-http://51.222.85.85:81/hls/loco/index.m3u8
+http://85.239.54.197:81/live/loco_hi/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación y Cultura Geek", Magic | SD | Argentina
 https://magicstream.ddns.net/magicstream/stream.m3u8 
@@ -91,7 +94,7 @@ https://tv.arkeo.cl:19360/8134/8134.m3u8
 https://marine2.miplay.cl/ntv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Pequeradio TV | HD | España
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Pitufo TV | HD | Reino Unido
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
@@ -106,7 +109,12 @@ https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ixrELD7.png" group-title="Animación", ZTV Anime | HD | Chile
-https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8
+https://mitv.zplay.cl/Ztv/index.m3u8
+
+
+#EXTINF:-1 tvg-id="1720" tvg-name="EpicToon" tvg-logo="https://cdn.m3u.cl/logo/1720_EpicToon.png", EpicToon | CL
+https://sc1.wasidata.com/CartoonsPrime/video.m3u8?token=vibra060425&PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9NGAIom.png" group-title="Freetv.com", [COLOR lime]-Freetv.com-[/COLOR] 
 https://i.imgur.com/Xvfqdgc.mp4
@@ -178,9 +186,9 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
 https://i.imgur.com/V5j6nRj.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJhREyl.png" group-title="Internacionales", Latina | HD | Perú
-https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1aJZr2i.png" group-title="Internacionales", Panamericana | HD | Perú
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AYIiGpP.png" group-title="Internacionales", Panamericana | HD | Perú
 http://38.183.182.166:8000/play/a0ii/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AKL82vl.png" group-title="Internacionales", Star TVE | SD | España
