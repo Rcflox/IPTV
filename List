@@ -51,32 +51,41 @@ https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", FMH Kids | FHD | Perú
 https://live-zlr1.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Energeek | FHD | Chile
-https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/DDFsg6K.png" group-title="Animación", Energeek Fan | FHD | Chile
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=dEmoweBeneRGEek2025
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Energeek Radio | FHD | Chile
-https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9VPCgmx.png" group-title="Animación", Energeek Pop | FHD | Chile
+https://backend.energeek.cl/webtv/egpopweb/index.m3u8?token=dEmoweBeneRGEek2025
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Energeek Fan | FHD | Chile
-https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7XWHat8.png" group-title="Animación", Energeek Retro | FHD | Chile
+https://cdn.energeek.cl/hls/energeekretro.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3sENz3K.png" group-title="Animación", Energeek Radio | FHD | Chile
+https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=dEmoweBeneRGEek2025
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Iuydj68.png" group-title="Animación", EpicToon | FHD | Chile
 https://sc1.wasidata.com/CartoonsPrime/video.m3u8?token=vibra060425&PlaylistM3UCL
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Gogoplay | HD | Bolivia
-https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8
+https://
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Gogoplay | SD | Bolivia
-https://ssh101-fl.bozztv.com/ssh101/gogoplaysd/tracks-v1a1/mono.m3u8
+https://
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Kanade TV | FHD | Chile
-https://backend.energeek.cl/webtv/kanadeweb/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/W5hFumt.png" group-title="Animación", Ipe | HD | Perú
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/pqWmos0.png" group-title="Animación", Kanade TV | FHD | Chile
+https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=deM0kanADeweB
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1CSchVZ.png" group-title="Animación", Locomotion | SD | República Dominicana 
 http://85.239.54.197:81/live/loco_hi/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yQ4MLqD.png" group-title="Animación y Cultura Geek", Max Anime | HD | Venezuela
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4flDleT.png" group-title="Animación", Max Anime | HD | Venezuela
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/m13TjiR.png" group-title="Animación", Magic | SD | Argentina
+https://magicstream.ddns.net/magicstream/stream.m3u8 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Moni TV | SD | Chile
 https://tv.arkeo.cl:19360/8134/8134.m3u8
