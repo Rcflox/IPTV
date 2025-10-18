@@ -81,11 +81,11 @@ https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=deM0kanADeweB
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1CSchVZ.png" group-title="Animación", Locomotion | SD | República Dominicana 
 http://85.239.54.197:81/live/loco_hi/index.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ghxQFuR.png" group-title="Animación", Magic | SD | Argentina
+https://magicstream.ddns.net/magicstream/stream.m3u8 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4flDleT.png" group-title="Animación", Max Anime | HD | Venezuela
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/m13TjiR.png" group-title="Animación", Magic | SD | Argentina
-https://magicstream.ddns.net/magicstream/stream.m3u8 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Moni TV | SD | Chile
 https://tv.arkeo.cl:19360/8134/8134.m3u8
@@ -93,7 +93,7 @@ https://tv.arkeo.cl:19360/8134/8134.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", NTV | SD | Chile
 https://marine2.miplay.cl/ntv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Pequeradio TV | HD | España
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NYvvR60.jpeg" group-title="Animación", Pequeradio TV | HD | España
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Pitufo TV | HD | Reino Unido
@@ -213,10 +213,10 @@ https://i.imgur.com/Xvfqdgc.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/5194tl8duqL.png" group-title="Estilo de Vida", HOLA! Play | HD | España
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4BLxN00.png" group-title="Estilo de Vida", Jenny Live | HD | Estados Unidos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vgYPMNq.png" group-title="Estilo de Vida", Jenny Live | HD | Estados Unidos
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4BLxN00.png" group-title="Estilo de Vida", Miami Tv | HD | Estados Unidos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vgYPMNq.png" group-title="Estilo de Vida", Miami Tv | HD | Estados Unidos
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Documentales", [COLOR lime]-Documentales-[/COLOR] 
