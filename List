@@ -39,11 +39,11 @@ http://animezonetv.net/hls/stream.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Big Channel | SD | Argentina
 https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Clan | HD | España
+#EXTINF:-1 tvg-logo="https://i.imgur.com/llnnSAm.png" group-title="Animación", Clan | HD | España
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Clan | HD | España | Alt.
-https://rtvelivestream-clnx.rtve.es/rtvesec/int/clan_int_main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/llnnSAm.png" group-title="Animación", Clan | HD | España | Alt.
+https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Dreiko TV | HD | Panamá
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
