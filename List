@@ -27,6 +27,12 @@ https://i.imgur.com/Xvfqdgc.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4aAErJv.png" group-title="Animación", Anime Station| HD | Argentina
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="Animación", Anime Station| HD | Argentina
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="Animación", Anime Station| HD | Argentina
+https://live20.bozztv.com/giatv/giatv-livestreamingtv/livestreamingtv/chunks.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Anime Tal Tal TV  | HD | Chile
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 
