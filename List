@@ -24,6 +24,9 @@ https://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", [COLOR lime]-Animación-[/COLOR] 
 https://i.imgur.com/Xvfqdgc.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4aAErJv.png" group-title="Animación", Anime Station| HD | Argentina
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Anime Tal Tal TV  | HD | Chile
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 
@@ -66,11 +69,11 @@ https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=dEmoweBeneRGEek202
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Iuydj68.png" group-title="Animación", EpicToon | FHD | Chile
 https://sc1.wasidata.com/CartoonsPrime/video.m3u8?token=vibra060425&PlaylistM3UCL
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Gogoplay | HD | Bolivia
-https://
+#EXTINF: -1 tvg-logo="https://i.imgur.com/EKylyHE.png" group-title="Animación", Geekdot | HD | Brasil
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Gogoplay | SD | Bolivia
-https://
+#EXTINF: -1 tvg-logo="https://i.imgur.com/K2etRF1.jpeg" group-title="Animación", Gogoplay | HD | Bolivia
+https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/W5hFumt.png" group-title="Animación", Ipe | HD | Perú
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
@@ -87,10 +90,10 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4flDleT.png" group-title="Animación", Max Anime | HD | Venezuela
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Moni TV | SD | Chile
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BwXl3PS.png" group-title="Animación", Moni TV | SD | Chile
 https://tv.arkeo.cl:19360/8134/8134.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", NTV | SD | Chile
+#EXTINF: -1 tvg-logo="https://i.imgur.com/tTAYGih.png[" group-title="Animación", NTV | SD | Chile
 https://marine2.miplay.cl/ntv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYvvR60.jpeg" group-title="Animación", Pequeradio TV | HD | España
