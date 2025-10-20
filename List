@@ -201,8 +201,14 @@ https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NNTs80p.png" group-title="Internacionales", Telemadrid | HD | España
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QwLhvUB.png" group-title="Puerto Rico", Telemundo | HD | Puerto Rico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MO7l6on.png" group-title="Internacionales", Telesur | HD | Venezuela
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BLG2dtR.png" group-title="España", TVE Internacional | HD | España
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8ZR2XHN.png" group-title="Internacionales", TVN3 | FHD | Chile
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
@@ -219,9 +225,11 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vgYPMNq.png" group-title="Estilo de Vida", Miami Tv | HD | Estados Unidos
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vgYPMNq.png" group-title="Estilo de Vida", Miami TV Fashion | HD | Estados Unidos
+https://stream-us-east-1.getpublica.com/cl/251014d3ncgur1ht791hrbej1g/1920x1080_6157125_0_f.m3u8?i=1187_16284
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Documentales", [COLOR lime]-Documentales-[/COLOR] 
 https://i.imgur.com/Xvfqdgc.mp4
-
 
 
 #EXTINF:-1 tvg-logo="https://" group-title="Leeme",- Última Actualización - Fin de lista -
