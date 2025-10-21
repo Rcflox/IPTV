@@ -24,10 +24,10 @@ https://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", [COLOR lime]-Animación-[/COLOR] 
 https://i.imgur.com/Xvfqdgc.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4aAErJv.png" group-title="Animación", Anime Station | HD | Argentina
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4aAErJv.png" group-title="Animación", Anime Station 1 | HD | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4aAErJv.png" group-title="Animación", Anime Station | HD | Argentina
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4aAErJv.png" group-title="Animación", Anime Station 2 | HD | Argentina
 https://live20.bozztv.com/giatv/giatv-livestreamingtv/livestreamingtv/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Anime Tal Tal TV  | HD | Chile
@@ -41,9 +41,6 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RvPalzV.png" group-title="Animación", Anime Zone TV | SD | República Dominicana 
 http://animezonetv.net/hls/stream.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Big Channel | SD | Argentina
-https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/llnnSAm.png" group-title="Animación", Clan | HD | España
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
@@ -105,7 +102,7 @@ https://marine2.miplay.cl/ntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYvvR60.jpeg" group-title="Animación", Pequeradio TV | HD | España
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Pitufo TV | HD | Reino Unido
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9UKXfaA.png" group-title="Animación", Pitufo TV | HD | Reino Unido
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/UjsoSOV.png" group-title="Animación", VariedTV | HD | Argentina
