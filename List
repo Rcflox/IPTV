@@ -127,7 +127,7 @@ https://aka-live491.delivery.roku.com/e394d580-0f69-4045-9b7d-f001a74eb2e9/t2-or
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hI2XrLv.png" group-title="Freetv.com", Clásicos - Freetv.com | HD | USA
-https://amg01024-olympusat-amg01024c29-lg-mx-6531.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-freetvclasicoeurope-lgmx/playlist.m3u8
+https://amg01024-olympusat-amg01024c29-lg-mx-6531.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-freetvclasicoeurope-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&givn=[NONCE]
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRklf9n.png" group-title="Freetv.com", Drama - Freetv.com | HD | USA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
