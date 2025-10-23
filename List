@@ -45,9 +45,6 @@ https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF: -1 tvg-logo="https://i.imgur.com/B82cCHT.png" group-title="Animación", Dreiko TV | HD | Panamá
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", FMH Kids | FHD | Perú
-https://live-zlr1.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DDFsg6K.png" group-title="Animación", Energeek Fan | FHD | Chile
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=dEmoweBeneRGEek2025
 
@@ -180,12 +177,6 @@ https://i.imgur.com/Xvfqdgc.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wh9SLJC.png" group-title="Internacionales", América Tevé | HD | Estados Unidos
 https://live.gideo.video/americateve2/HD720/HD720.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="Internacionales", Antena 3 | FHD | España
-http://176.65.146.237:8401/play/a0ae/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="Internacionales", Antena 3 Internacional | SD | España
-http://38.180.133.31:8000/play/a0ki/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5tBSbgQ.png" group-title="Internacionales", Azteca Internacional | HD | México
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
@@ -246,6 +237,3 @@ https://stream-us-east-1.getpublica.com/cl/251014d3ncgur1ht791hrbej1g/1920x1080_
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Documentales", [COLOR lime]-Documentales-[/COLOR] 
 https://i.imgur.com/Xvfqdgc.mp4
 
-
-#EXTINF:-1 tvg-logo="https://" group-title="Leeme",- Última Actualización - Fin de lista -
-https://
