@@ -75,6 +75,9 @@ https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=deM0kanADeweB
 #EXTINF: -1 tvg-logo="https://i.imgur.com/pqWmos0.png" group-title="Animación", Kanade Brasil | FHD | Brasil
 https://streams.kanade.cl/webtv/kanadebr/index.m3u8?token=D3m0M3UCLWeb
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6yOjh3z.png" group-title="Animación", Kuriakos Kids | FHD | Brasil
+https://w2.manasat.com:443/kkids/smil:kkids.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1CSchVZ.png" group-title="Animación", Locomotion | SD | República Dominicana 
 http://85.239.54.197:81/live/loco_hi/index.m3u8
 
@@ -115,7 +118,7 @@ https://i.imgur.com/Xvfqdgc.mp4
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1AZHQDR.png" group-title="Freetv.com", Asia - Freetv.com | HD | USA
-https://
+https://aka-live491.delivery.roku.com/e394d580-0f69-4045-9b7d-f001a74eb2e9/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1fpj9do.png" group-title="Freetv.com", Banda - Freetv.com | HD | USA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
@@ -168,11 +171,17 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tixman6.png" group-title="Series y Peliculas", MyTime Movie Network | HD | México
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/MDc0WFM.png" group-title="Series y Peliculas", Radio Lado Oscuro | FHD | Chile
+https://stmv7.voxtvhd.com.br/catto5860/catto5860/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AKL82vl.png" group-title="Series y Peliculas", Star TVE | SD | España
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_576.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8ZR2XHN.png" group-title="Series y Peliculas", TVN3 | FHD | Chile
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/F2Yc8ZA.png" group-title="Series y Peliculas", Videoclub | FHD | Argentina
+https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Internacionales", [COLOR lime]-Internacionales-[/COLOR] 
 https://i.imgur.com/Xvfqdgc.mp4
