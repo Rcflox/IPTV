@@ -263,3 +263,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/pl
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/noYcNuO.png" group-title="Documentales", Suyai TV | HD | Chile
 https://signal.suyaitv.cl/live/36/playlist.m3u8?username=ZZWebSuyaiTV&password=SoloParaSitioWEBSuyaiTV&PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TTfbMuz.png" group-title="Documentales", Zoom TV | HD | Colombia
+https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
