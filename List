@@ -174,6 +174,9 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MDc0WFM.png" group-title="Series y Peliculas", Radio Lado Oscuro | FHD | Chile
 https://stmv7.voxtvhd.com.br/catto5860/catto5860/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ajtiBxR.png" group-title="Series y Peliculas", Retro Plus Señal 3 | FHD | Chile
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AKL82vl.png" group-title="Series y Peliculas", Star TVE | SD | España
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_576.m3u8
 
@@ -257,3 +260,6 @@ https://i.imgur.com/Xvfqdgc.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bjv0fRz.png" group-title="Documentales", Love Nature | HD | Estados Unidos
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/noYcNuO.png" group-title="Documentales", Suyai TV | HD | Chile
+https://signal.suyaitv.cl/live/36/playlist.m3u8?username=ZZWebSuyaiTV&password=SoloParaSitioWEBSuyaiTV&PlaylistM3UCL
