@@ -243,6 +243,9 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Estilo de Vida", [COLOR lime]-Estilo de Vida-[/COLOR] 
 https://i.imgur.com/Xvfqdgc.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UlZNq8H.png" group-title="Estilo de Vida", Cocinando TV | HD | Panamá
+https://sistemastr.tropicalmoonmedia.com:443/live/219197C7B6902B1A4D33D19600E9BE7A/10.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DslrdXQ.png" group-title="Estilo de Vida", HOLA! Play | HD | España
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 
@@ -262,7 +265,7 @@ https://i.imgur.com/Xvfqdgc.mp4
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/noYcNuO.png" group-title="Documentales", Suyai TV | HD | Chile
-https://signal.suyaitv.cl/live/36/playlist.m3u8?username=ZZWebSuyaiTV&password=SoloParaSitioWEBSuyaiTV&PlaylistM3UCL
+https://signal.suyaitv.cl/live/36/playlist.m3u8?username=ZZWebSuyaiTV&password=SoloParaSitioWEBSuyaiTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TTfbMuz.png" group-title="Documentales", Zoom TV | HD | Colombia
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
