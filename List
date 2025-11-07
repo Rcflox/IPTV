@@ -156,14 +156,14 @@ https://i.imgur.com/Xvfqdgc.mp4
 #EXTINF: -1 tvg-logo="https://i.imgur.com/2No4tUS.png" group-title="Series y Peliculas", AMC en español  | HD | Estados Unidos
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/RAUfDWX.png", Latina Clásicos | SD | Perú
-https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0YauDkx.png[" group-title="Series y Peliculas", Infinita TV Premium | HD | Estados Unidos
 https://s2.tvdatta.com:3753/hybrid/play.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tK7M4Hc.png" group-title="México", Imagen Universal TV | HD | Mexico
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tK7M4Hc.png" group-title="Series y Peliculas", Imagen Universal TV | HD | Mexico
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RAUfDWX.png" group-title="Series y Peliculas", Latina Clásicos | SD | Perú
+https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Ny5KJU.png" group-title="Series y Peliculas", Mega Cine TV | HD | Republica Dominicana
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
