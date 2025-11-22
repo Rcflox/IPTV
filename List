@@ -4,7 +4,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Rcflox/IPTV/main/List
-#ultima actualizacion:10/11/2025
+#ultima actualizacion: 21/11/2025
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #       Lista IPTV basada en el extinto proyecto Laope y la lista Televito.
 #       Tiene menos canales pero más agrupados por función.
 
-#EXTINF:-1 tvg-logo="https://" group-title="Leeme",- Última Actualización - 10/11/2025 -
+#EXTINF:-1 tvg-logo="https://" group-title="Leeme",- Última Actualización - 21/11/2025 -
 https://
 
 #*****************************
@@ -64,7 +64,7 @@ https://sc1.wasidata.com/CartoonsPrime/video.m3u8?token=vibra060425
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/K2etRF1.jpeg" group-title="Animación", Gogoplay | HD | Bolivia
-https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
+https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/62A6Ehh.png" group-title="Animación", Gospel Cartoon | SD | Brasil
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
