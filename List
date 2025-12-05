@@ -4,7 +4,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Rcflox/IPTV/main/List
-#ultima actualizacion: 21/11/2025
+#ultima actualizacion: 04/12/2025
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #       Lista IPTV basada en el extinto proyecto Laope y la lista Televito.
 #       Tiene menos canales pero más agrupados por función.
 
-#EXTINF:-1 tvg-logo="https://" group-title="Leeme",- Última Actualización - 21/11/2025 -
+#EXTINF:-1 tvg-logo="https://" group-title="Leeme",- Última Actualización - 04/12/2025 -
 https://
 
 #*****************************
@@ -23,6 +23,9 @@ https://
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", [COLOR lime]-Animación-[/COLOR] 
 https://i.imgur.com/Xvfqdgc.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0zPAHfF.png" group-title="Cine y Cultura Geek", 6 Wise TV  | HD | Argentina
+https://live.enhdtv.com:8081/8150/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4aAErJv.png" group-title="Animación", Anime Station 1 | HD | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
@@ -41,6 +44,9 @@ http://animezonetv.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/llnnSAm.png" group-title="Animación", Clan | HD | España
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/JYMd0ul.png" group-title="Animación", Dios Te Ve Kids | SD | Honduras
+https://emisoras.hn:8081/diostevekids/index.m3u8?PlaylistM3UCL
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/B82cCHT.png" group-title="Animación", Dreiko TV | HD | Panamá
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
