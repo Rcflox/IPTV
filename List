@@ -198,6 +198,9 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tixman6.png" group-title="Series y Peliculas", MyTime Movie Network | HD | México
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aiqI461.png" group-title="Series y Peliculas", New K Movies | HD | Corea del Sur
+https://jmp2.uk/stvp-ES170000433
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MDc0WFM.png" group-title="Series y Peliculas", Radio Lado Oscuro | FHD | Chile
 https://stmv7.voxtvhd.com.br/catto5860/catto5860/playlist.m3u8
 
