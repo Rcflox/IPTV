@@ -132,6 +132,9 @@ https://i.imgur.com/Xvfqdgc.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVlMOqT.png" group-title="Freetv.com", Acción - Freetv.com | HD | USA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1AZHQDR.png" group-title="Freetv.com", Asia - Freetv.com | HD | USA
+https://aka-live491.delivery.roku.com/e394d580-0f69-4045-9b7d-f001a74eb2e9/t2-origin/out/v1/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1fpj9do.png" group-title="Freetv.com", Banda - Freetv.com | HD | USA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
 
@@ -173,6 +176,15 @@ https://s2.tvdatta.com:3753/hybrid/play.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tK7M4Hc.png" group-title="Series y Peliculas", Imagen Universal TV | HD | Mexico
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uBnMuBd.png" group-title="Series y Peliculas", K-Drama + | HD | Corea del Sur
+https://jmp2.uk/stvp-ESBD4100001DU
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bdItsv7.png" group-title="Series y Peliculas", K-Drama by MBC | HD | Corea del Sur
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=k-dramabymbc&channel_id=newid_337&mpf=79b005ff-39af1962-331bc798&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=5dfff943-067be473-85f3955b-710b7edf&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DJykPHD.png" group-title="Series y Peliculas", K-Drama Romcom | HD | Corea del Sur
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=romcomk-drama&channel_id=newid_232&mpf=08189b47-39af1962-c4b8a7a4&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=7e44fa59-d887b105-7d1f1344-aff72ba9&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RAUfDWX.png" group-title="Series y Peliculas", Latina Clásicos | SD | Perú
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
