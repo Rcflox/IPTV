@@ -90,7 +90,7 @@ https://w2.manasat.com:443/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1CSchVZ.png" group-title="Animación", Locomotion | SD | República Dominicana 
 http://85.239.54.197:81/live/loco_hi/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Logos TV Kids | HD | España
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LAt85JL.png" group-title="Animación", Logos TV Kids | HD | España
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ghxQFuR.png" group-title="Animación", Magic | SD | Argentina
@@ -105,7 +105,7 @@ https://tv.arkeo.cl:19360/8134/8134.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tTAYGih.png[" group-title="Animación", NTV | SD | Chile
 https://marine2.miplay.cl/ntv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Animación", Peniel Kids & Young | HD | Guatemala
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eCVwyMh.png" group-title="Animación", Peniel Kids & Young | HD | Guatemala
 https://s.emisoras.tv:8081/penielkids/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYvvR60.jpeg" group-title="Animación", Pequeradio TV | HD | España
@@ -253,7 +253,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 http://38.183.182.166:8000/play/a0ii/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYIiGpP.png" group-title="Internacionales", Panamericana | HD | Perú
-https://cdnhd.iblups.com/hls/ptv5.m3u8
+https://cdnhd.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DYIks08.png" group-title="Internacionales", RCN Más | HD | Colombia
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
