@@ -4,7 +4,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Rcflox/IPTV/main/List
-#ultima actualizacion: 04/12/2025
+#ultima actualizacion: 11/01/2026
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #       Lista IPTV basada en el extinto proyecto Laope y la lista Televito.
 #       Tiene menos canales pero más agrupados por función.
 
-#EXTINF:-1 tvg-logo="https://" group-title="Leeme",- Última Actualización - 04/12/2025 -
+#EXTINF:-1 tvg-logo="https://" group-title="Leeme",- Última Actualización - 11/01/2026 -
 https://
 
 #*****************************
@@ -323,3 +323,84 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13231&avod=1&coppa=0&td=6&
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DSo0Ii6.png" group-title="Runtime", Runtime Romance | HD | USA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11833&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Radios Pop Asia", -[COLOR cyan]Radios Pop Asia[/COLOR]-
+https://archive.org/download/2122omem/Zhang%20Fan%20-%20Man%20Chang%20Fei.mp3
+
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/E8cJyLw.jpg" group-title="Radios Pop Asia", Akari Radio (Ecuador)
+https://node-26.zeno.fm/0t952vqukfeuv?rj-ttl=5&rj-tok=AAABdotyp9AAJfddmGW35WrTxQ
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/TaQf1Ki.png" group-title="Radios Pop Asia", Fanática Kpop (Chile)
+https://ascl.denial.cl:2020/stream/8026/;
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/6geKHha.png" group-title="Radios Pop Asia", Animé para Tí Radio (Chile)
+https://stream.zeno.fm/acnhrkt8c4duv
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/L2Z4mbh.png" group-title="Radios Pop Asia", Anime Nexus (México)
+http://radio.animenexus.mx:8000/animenexus
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/zW3CA4Y.png" group-title="Radios Pop Asia", Radio Anime (México)
+https://radioanime.radioca.st/stream
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/Q9HHMA2.png" group-title="Radios Pop Asia", Kawaii Music (Alemania)
+https://kawaii-music.stream.laut.fm/kawaii-music
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/y9jr8T7.png" group-title="Radios Pop Asia", Otaku Music Radio (España)
+https://kathy.torontocast.com:2880/1.mp3
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/oNnmwMe.png" group-title="Radios Pop Asia", Radio Animex (Perú)
+https://dj91.hostingnuclear.com/8014/stream
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/ASnkaiS.png" group-title="Radios Pop Asia", 華語 HITS China (Estados Unidos)
+https://das-edge11-live365-dal03.cdnstream.com/a57743
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/jJ9sqva.png" group-title="Radios Pop Asia", Hotmixradio China (Francia)
+https://n02.rcs.revma.com/qy75gnt6r7uvv
+
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Radios Internacionales", -[COLOR cyan]Radios Internacionales[/COLOR]-
+https://ia800309.us.archive.org/30/items/qtteocta4/Quartetto%20Cetra%20-%20Crapa%20pelada.mp3
+
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/Ov6LR8j.png" group-title="Radios Internacionales", Vatican News | Ciudad del Vaticano
+https://radio.vaticannews.va/stream-es
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/wBHu87o.jpg" group-title="Radios Internacionales", BBC Radio 2 | Reino Unido
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_two.m3u8
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/8WC734J.png" group-title="Radios Internacionales", Capital FM | Reino Unido
+http://vis.media-ice.musicradio.com/CapitalUKMP3
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/BPmACIE.png" group-title="Radios Internacionales", Salsa la Salsera Guandong | China
+https://stream.zeno.fm/vqnryd9b2wzuv
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/fCQeJKX.png" group-title="Radios Internacionales", FM O Dia 100.5 | Brasil
+https://streaming.livespanel.com:20000/live
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/5Tf6dsa.png" group-title="Radios Internacionales", Heart | Reino Unido 
+http://vis.media-ice.musicradio.com/HeartUKMP3
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/mcDPnz9.jpg" group-title="Radios Internacionales", LBC 97.3 FM | Reino Unido
+http://media-ice.musicradio.com/LBCUKMP3Low
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/imL2P4c.jpg" group-title="Radios Internacionales", LBC London News 1152 AM | Reino Unido
+http://media-ice.musicradio.com/LBC1152MP3Low
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/4NvtTYp.png" group-title="Radios Internacionales", Los 40 | España
+https://22603.live.streamtheworld.com/LOS40AAC.aac
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/4NvtTYp.png" group-title="Radios Internacionales", Los 40 | Colombia
+https://27433.live.streamtheworld.com/LOS40_COLOMBIAAAC.aac
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/jpFoozY.png" group-title="Radios Internacionales", Lu6 Radio Atlántica AM | Mar del Plata | Argentina
+http://173.255.205.241:9090/;
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/XbptMyc.png" group-title="Radios Internacionales", Nashville FM Country | Holanda
+https://nashvillefm.stream-server.nl:8300/stream
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/HbV9HoX.png" group-title="Radios Internacionales", Norte | Bahía Blanca | Argentina
+http://icecast.hostingbahia.com.ar:8002/live?28344
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/71kcIC0.png" group-title="Radios Internacionales", Radio Francia Internacional en español | Francia
+http://live02.rfi.fr/rfienespagnol-64.mp3
