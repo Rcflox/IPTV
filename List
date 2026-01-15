@@ -268,7 +268,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 http://38.183.182.166:8000/play/a0ii/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYIiGpP.png" group-title="Internacionales", Panamericana | HD | Perú
-https://cdnhd.iblups.com/hls/ptv2.m3u8
+https://cdnhd.iblups.com/hls/ptv5.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DYIks08.png" group-title="Internacionales", RCN Más | HD | Colombia
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
