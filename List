@@ -180,6 +180,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/play
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mgJxWsj.png" group-title="Freetv.com", Terror - Freetv.com | HD | USA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Series y Peliculas", [COLOR lime]- Series y Peliculas -[/COLOR] 
 https://i.imgur.com/Xvfqdgc.mp4
 
@@ -266,9 +267,6 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYIiGpP.png" group-title="Internacionales", Panamericana | HD | Perú
 http://38.183.182.166:8000/play/a0ii/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AYIiGpP.png" group-title="Internacionales", Panamericana | HD | Perú
-https://cdnhd.iblups.com/hls/ptv5.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DYIks08.png" group-title="Internacionales", RCN Más | HD | Colombia
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
@@ -376,7 +374,6 @@ https://n02.rcs.revma.com/qy75gnt6r7uvv
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Radios Internacionales", -[COLOR cyan]Radios Internacionales[/COLOR]-
 https://ia800309.us.archive.org/30/items/qtteocta4/Quartetto%20Cetra%20-%20Crapa%20pelada.mp3
-
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/WbUAXqW.png" group-title="Radios Internacionales", Vatican News | Ciudad del Vaticano
 https://radio.vaticannews.va/stream-es
