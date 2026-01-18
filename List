@@ -220,6 +220,9 @@ https://stmv7.voxtvhd.com.br/catto5860/catto5860/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ajtiBxR.png" group-title="Series y Peliculas", Retro Plus Señal 3 | FHD | Chile
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="[https://i.imgur.com/xeTHO3U.png" group-title="Series y Peliculas", Seo TV 4 | FHD | AR
+https://seo.tv.bo/tv/SEOTV4_HD.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Internacionales", [COLOR lime]-Internacionales-[/COLOR] 
 https://i.imgur.com/Xvfqdgc.mp4
 
