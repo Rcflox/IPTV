@@ -4,7 +4,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Rcflox/IPTV/main/List
-#ultima actualizacion: 18/01/2026
+#ultima actualizacion: 20/01/2026
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #       Lista IPTV basada en el extinto proyecto Laope y la lista Televito.
 #       Tiene menos canales pero más agrupados por función.
 
-#EXTINF:-1 tvg-logo="https://" group-title="Leeme",- Última Actualización - 18/01/2026 -
+#EXTINF:-1 tvg-logo="https://" group-title="Leeme",- Última Actualización - 20/01/2026 -
 https://
 
 #*****************************
@@ -226,11 +226,17 @@ https://seo.tv.bo/tv/SEOTV4_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Internacionales", [COLOR lime]-Internacionales-[/COLOR] 
 https://i.imgur.com/Xvfqdgc.mp4
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/VkGj39c.png" group-title="Internacionales", TVE 24 Horas | HD | España
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wh9SLJC.png" group-title="Internacionales", América Tevé | HD | Estados Unidos
 https://live.gideo.video/americateve2/HD720/HD720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BmTrRtV.png" group-title="Internacionales", ATV | HD | Perú
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LDwpBCL.png" group-title="Internacionales", ATV Sur | HD | Perú
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KOsDdcj.png" group-title="Internacionales", ATV+ | HD | Perú
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5tBSbgQ.png" group-title="Internacionales", Azteca Internacional | HD | México
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
@@ -253,11 +259,17 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LO1nOKF.png" group-title="Internacionales", Hispan TV | SD | Irán
 https://live.presstv.ir/hls/hispantv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FYSbDXW.png" group-title="Internacionales", Hispania TV | HD | Panamá
+https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJhREyl.png" group-title="Internacionales", Latina | HD | Perú
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RAUfDWX.png" group-title="Series y Peliculas", Latina Clásicos | SD | Perú
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RAUfDWX.png" group-title="Internacionales", Latina Clásicos | SD | Perú
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X8bZrCh.jpeg" group-title="Internacionales", Mega TV | HD | Paraguay
+https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vVvDIqR.png" group-title="Internacionales", Neo TV  | HD | Argentina
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -271,7 +283,7 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wGMRSkJ.png" group-title="Internacionales", RT Español | FHD | Rusia
 https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AKL82vl.png" group-title="Series y Peliculas", Star TVE | SD | España
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AKL82vl.png" group-title="Internacionales", Star TVE | SD | España
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_576.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NNTs80p.png" group-title="Internacionales", Telemadrid | HD | España
@@ -283,10 +295,13 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DkzK6Vt.png" group-title="Internacionales", Telesur | HD | Venezuela
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/VkGj39c.png" group-title="Internacionales", TVE 24 Horas | HD | España
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BLG2dtR.png" group-title="Internacionales", TVE Internacional | HD | España
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8ZR2XHN.png" group-title="Series y Peliculas", TVN3 | FHD | Chile
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8ZR2XHN.png" group-title="Internacionales", TVN3 | FHD | Chile
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Estilo de Vida", [COLOR lime]-Estilo de Vida-[/COLOR] 
@@ -304,16 +319,19 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vgYPMNq.png" group-title="Estilo de Vida", Miami Tv | HD | Estados Unidos
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Documentales", [COLOR lime]-Documentales-[/COLOR] 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Documentales y Cultura", [COLOR lime]-Documentales y Cultura-[/COLOR] 
 https://i.imgur.com/Xvfqdgc.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bjv0fRz.png" group-title="Documentales", Love Nature | HD | Estados Unidos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tpl1XbD.png" group-title="Documentales y Cultura", Cultura 24 | HD | Perú
+https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjv0fRz.png" group-title="Documentales y Cultura", Love Nature | HD | Estados Unidos
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/noYcNuO.png" group-title="Documentales", Suyai TV | HD | Chile
+#EXTINF:-1 tvg-logo="https://i.imgur.com/noYcNuO.png" group-title="Documentales y Cultura", Suyai TV | HD | Chile
 https://signal.suyaitv.cl/live/36/playlist.m3u8?username=ZZWebSuyaiTV&password=SoloParaSitioWEBSuyaiTV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TTfbMuz.png" group-title="Documentales", Zoom TV | HD | Colombia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TTfbMuz.png" group-title="Documentales y Cultura", Zoom TV | HD | Colombia
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WzXFDQ8.jpeg" group-title="Runtime", [COLOR lime]-Runtime-[/COLOR] 
