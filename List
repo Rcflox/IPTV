@@ -226,6 +226,9 @@ https://i.imgur.com/Xvfqdgc.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wh9SLJC.png" group-title="Internacionales", América Tevé | HD | Estados Unidos
 https://live.gideo.video/americateve2/HD720/HD720.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eiW1wms.png" group-title="Internacionales", Atlanta Channel | HD | Estados Unidos
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BmTrRtV.png" group-title="Internacionales", ATV | HD | Perú
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
@@ -237,6 +240,12 @@ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5tBSbgQ.png" group-title="Internacionales", Azteca Internacional | HD | México
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BtRg664.png" group-title="Internacionales", Canal 57 Florida | Estados Unidos
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chMxUFm.png" group-title="Internacionales", DC Network | HD | Estados Unidos
+http://video.oct.dc.gov/out/u/DCN.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/J3iUK31.png" group-title="Internacionales", DW en español | FHD | Alemania
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -271,6 +280,12 @@ https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vVvDIqR.png" group-title="Internacionales", Neo TV  | HD | Argentina
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GE9KHpc.png" group-title="Internacionaless", New Orleans TV | HD | Estados Unidos
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1WFZAV4.png" group-title="Internacionales", NHK ES  | HD | Japón
+https://vnpt.nekocdn.xyz/d074504f-ca7a-467e-a67c-a91e69461775.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYIiGpP.png" group-title="Internacionales", Panamericana | HD | Perú
 http://38.183.182.166:8000/play/a0ii/index.m3u8
 
@@ -301,6 +316,9 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8ZR2XHN.png" group-title="Internacionales", TVN3 | FHD | Chile
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1ZWVZzG.png" group-title="Internacionales", Univisión 34 | HD | Estados Unidos
+https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Estilo de Vida", [COLOR lime]-Estilo de Vida-[/COLOR] 
 https://i.imgur.com/Xvfqdgc.mp4
 
@@ -321,6 +339,15 @@ https://i.imgur.com/Xvfqdgc.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tpl1XbD.png" group-title="Documentales y Cultura", Cultura 24 | HD | Perú
 https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KgUj8NU.png" group-title="Documentales y Cultura", Go USA Chile | HD | Estados Unidos
+https://brandusa-gousa-3-cl.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KgUj8NU.png" group-title="Documentales y Cultura", Go USA Colombia | HD | Estados Unidos
+https://brandusa-gousa-3-co.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KgUj8NU.png" group-title="Documentales y Cultura", Go USA Perú | HD | Estados Unidos 
+https://brandusa-gousa-3-pe.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bjv0fRz.png" group-title="Documentales y Cultura", Love Nature | HD | Estados Unidos
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
