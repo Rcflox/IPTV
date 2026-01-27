@@ -284,7 +284,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1WFZAV4.png" group-title="Internacionales", NHK ES  | HD | Japón
-https://vnpt.nekocdn.xyz/d074504f-ca7a-467e-a67c-a91e69461775.m3u8
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYIiGpP.png" group-title="Internacionales", Panamericana | HD | Perú
 http://38.183.182.166:8000/play/a0ii/index.m3u8
