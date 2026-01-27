@@ -4,7 +4,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Rcflox/IPTV/main/List
-#ultima actualizacion: 20/01/2026
+#ultima actualizacion: 27/01/2026
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #       Lista IPTV basada en el extinto proyecto Laope y la lista Televito.
 #       Tiene menos canales pero más agrupados por función.
 
-#EXTINF:-1 tvg-logo="https://" group-title="Leeme",- Última Actualización - 20/01/2026 -
+#EXTINF:-1 tvg-logo="https://" group-title="Leeme",- Última Actualización - 27/01/2026 -
 https://
 
 #*****************************
@@ -140,6 +140,9 @@ https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ao1cErG.png" group-title="Animación", ZTV Anime | HD | Chile
 https://mitv.zplay.cl/Ztv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Deportes", [COLOR lime]-Deportes-[/COLOR] 
+https://i.imgur.com/Xvfqdgc.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9NGAIom.png" group-title="Freetv.com", [COLOR lime]-Freetv.com-[/COLOR] 
 https://i.imgur.com/Xvfqdgc.mp4
