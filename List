@@ -355,12 +355,6 @@ https://brandusa-gousa-3-pe.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bjv0fRz.png" group-title="Documentales y Cultura", Love Nature | HD | Estados Unidos
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZN5SPCr.png" group-title="Documentales y Cultura", NASA TV Public | HD | Estados Unidos
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZN5SPCr.png" group-title="Documentales y Cultura", NASA TV Media | HD | Estados Unidos
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/noYcNuO.png" group-title="Documentales y Cultura", Suyai TV | HD | Chile
 https://signal.suyaitv.cl/live/36/playlist.m3u8?username=ZZWebSuyaiTV&password=SoloParaSitioWEBSuyaiTV
 
