@@ -261,7 +261,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/play
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mgJxWsj.png" group-title="Freetv.com", Terror - Freetv.com | HD | USA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Series y Peliculas", [COLOR lime]- Series y Peliculas -[/COLOR] 
 https://i.imgur.com/Xvfqdgc.mp4
 
@@ -439,6 +438,9 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vgYPMNq.png" group-title="Estilo de Vida", Miami Tv | HD | Estados Unidos
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7aIcgSz.jpeg" group-title="Estilo de Vida", Mexico Travel Channel | HD | Mexico
+https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Documentales y Cultura", [COLOR lime]-Documentales y Cultura-[/COLOR] 
 https://i.imgur.com/Xvfqdgc.mp4
 
@@ -447,6 +449,9 @@ https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s9oZZlg.png" group-title="Documentales y Cultura", CGTN Documentary China - EN | HD | China
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6UP0dA4.png" group-title="Documentales y Cultura", Earth TV - EN | HD | Global
+https://player.earthtv.com/?token=EAIY6wE4osiMWEgG.CgdlYXJ0aHR2EgtMTnJTM2E0QUJjbxoLSGljWUp6RUFCNUU.Zi8kA2JhC9NepQoaRue05uR6yMmW-UeiwnpJerMi7bkIV-yj4jU9M1PjaQP-d8sBdROeIiGkz8BeflskG9M25w
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KgUj8NU.png" group-title="Documentales y Cultura", Go USA Chile | HD | Estados Unidos
 https://brandusa-gousa-3-cl.lg.wurl.tv/playlist.m3u8
