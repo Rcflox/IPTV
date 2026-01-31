@@ -144,22 +144,22 @@ https://mitv.zplay.cl/Ztv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Deportes", [COLOR lime]-Deportes-[/COLOR] 
 https://i.imgur.com/Xvfqdgc.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iHhc7PK.png" group-title="Deportes", Teletrak | HD | Chile
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eACwEFq.png" group-title="Deportes", Teletrak | HD | Chile
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kaEmApF.png" group-title="Deportes", Móvil TV Turf | HD | Chile
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xs60eD8.jpeg" group-title="Deportes", Móvil TV Turf | HD | Chile
 https://tvturf4.janus.cl/playlist/stream.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/fjLVSMU.png" group-title="Deportes", ITV Deportes | HD | México
+#EXTINF: -1 tvg-logo="https://i.imgur.com/RAnYvjP.png" group-title="Deportes", ITV Deportes | HD | México
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/unVmiO8.png" group-title="Deportes", Motorvisión Español | HD | Alemania
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7t2Fawm.png" group-title="Deportes", Motorvisión Español | HD | Alemania
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorvision-tv-espanol/mv_es.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/EQhKDuN.png" group-title="Deportes", Garage TV | SD | Argentina
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7t2Fawm.png" group-title="Deportes", Garage TV | SD | Argentina
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/KqhVn1t.png" group-title="Deportes", Canal Do Inter | HD | Brasil
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PvYL1nA.png" group-title="Deportes", Canal Do Inter | HD | Brasil
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oZGfpO8.png" group-title="Deportes", Red Bull TV | FHD | Austria
