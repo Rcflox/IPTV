@@ -156,28 +156,28 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7t2Fawm.png" group-title="Deportes", Motorvisión Español | HD | Alemania
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorvision-tv-espanol/mv_es.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/7t2Fawm.png" group-title="Deportes", Garage TV | SD | Argentina
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lOlqfTj.png" group-title="Deportes", Garage TV | SD | Argentina
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PvYL1nA.png" group-title="Deportes", Canal Do Inter | HD | Brasil
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oZGfpO8.png" group-title="Deportes", Red Bull TV | FHD | Austria
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fAWmeFi.png" group-title="Deportes", Red Bull TV | FHD | Austria
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a0utWVw.png" group-title="Deportes", Inter TV | FHD | Italia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gy3kLW4.png" group-title="Deportes", Inter TV | FHD | Italia
 https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TI5rRqb.png" group-title="Deportes", Canale 88 | HD | Italia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PFbGk7.png" group-title="Deportes", Canale 88 | HD | Italia
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AhRFJuM.png" group-title="Deportes", Trace Sports | HD | Francia
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nv54JS.png" group-title="Deportes", Pac 12 Insider | HD | Estados Unidos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q08auNV.png" group-title="Deportes", Pac 12 Insider | HD | Estados Unidos
 https://pac12-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C2g0Dyh.png" group-title="Deportes", MLB Network | HD | Estados Unidos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yk5yC3P.png" group-title="Deportes", MLB Network | HD | Estados Unidos
 https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1IAs9Yh.png" group-title="Deportes", Game+ | HD | Canadá
@@ -450,8 +450,8 @@ https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s9oZZlg.png" group-title="Documentales y Cultura", CGTN Documentary China - EN | HD | China
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6UP0dA4.png" group-title="Documentales y Cultura", Earth TV - EN | HD | Global
-https://player.earthtv.com/?token=EAIY6wE4osiMWEgG.CgdlYXJ0aHR2EgtMTnJTM2E0QUJjbxoLSGljWUp6RUFCNUU.Zi8kA2JhC9NepQoaRue05uR6yMmW-UeiwnpJerMi7bkIV-yj4jU9M1PjaQP-d8sBdROeIiGkz8BeflskG9M25w
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fSGS1oM.png" group-title="Documentales y Cultura", Earth View Cam | HD | Global
+http://tvpremiumhd.club/lista-gratuita/221424/tv/live.php?id=video3.earthcam.com/fecnetwork/4017timessquare.flv/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KgUj8NU.png" group-title="Documentales y Cultura", Go USA Chile | HD | Estados Unidos
 https://brandusa-gousa-3-cl.lg.wurl.tv/playlist.m3u8
