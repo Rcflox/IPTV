@@ -4,7 +4,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Rcflox/IPTV/main/List
-#ultima actualizacion: 31/01/2026
+#ultima actualizacion: 02/02/2026
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #       Lista IPTV basada en el extinto proyecto Laope y la lista Televito.
 #       Tiene menos canales pero más agrupados por función.
 
-#EXTINF:-1 tvg-logo="https://" group-title="Leeme",- Última Actualización - 31/01/2026 -
+#EXTINF:-1 tvg-logo="https://" group-title="Leeme",- Última Actualización - 02/02/2026 -
 https://
 
 #*****************************
@@ -408,6 +408,9 @@ https://telemadrid-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/47B7ep1.png" group-title="Internacionales", Telemundo | HD | Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UmVmks.png" group-title="Internacionales", TeleFórmula | HD | México D.F
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DkzK6Vt.png" group-title="Internacionales", Telesur | HD | Venezuela
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
@@ -449,9 +452,6 @@ https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s9oZZlg.png" group-title="Documentales y Cultura", CGTN Documentary China - EN | HD | China
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fSGS1oM.png" group-title="Documentales y Cultura", Earth View Cam | HD | Global
-http://tvpremiumhd.club/lista-gratuita/221424/tv/live.php?id=video3.earthcam.com/fecnetwork/4017timessquare.flv/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KgUj8NU.png" group-title="Documentales y Cultura", Go USA Chile | HD | Estados Unidos
 https://brandusa-gousa-3-cl.lg.wurl.tv/playlist.m3u8
