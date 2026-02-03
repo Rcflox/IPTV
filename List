@@ -171,7 +171,7 @@ https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PFbGk7.png" group-title="Deportes", Canale 88 | HD | Italia
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AhRFJuM.png" group-title="Deportes", Trace Sports | HD | Francia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2FHGZVi.png" group-title="Deportes", Trace Sports | HD | Francia
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q08auNV.png" group-title="Deportes", Pac 12 Insider | HD | Estados Unidos
@@ -180,34 +180,34 @@ https://pac12-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yk5yC3P.png" group-title="Deportes", MLB Network | HD | Estados Unidos
 https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1IAs9Yh.png" group-title="Deportes", Game+ | HD | Canadá
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WeYy7Rz.png" group-title="Deportes", Game+ | HD | Canadá
 https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NApBTT4.png" group-title="Deportes", Sports TV | HD | Turquía
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BEB7QOK.png" group-title="Deportes", Sports TV | HD | Turquía
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EILZcp6.png" group-title="Deportes", Belarus 5 | HD | Bielorrusia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ji3ZNWB.jpeg" group-title="Deportes", Belarus 5 | HD | Bielorrusia
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S8OZyNV.png" group-title="Deportes", Astrakhan.ru Sport | HD | Rusia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/870iZkG.png" group-title="Deportes", Astrakhan.ru Sport | HD | Rusia
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZvAm9vT.png" group-title="Deportes", Antena Sport | HD | Rumanía
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sWg2hC7.jpeg" group-title="Deportes", Antena Sport | HD | Rumanía
 https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JL70gxd.png" group-title="Deportes", Turkmenistan Sport | SD | Turkmenistán
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rfPbAjV.png" group-title="Deportes", Turkmenistan Sport | SD | Turkmenistán
 http://217.174.225.146/legacyhls/ch004_400/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kebQDXl.jpeg" group-title="Deportes", RTA Sport | FHD | Afghanistan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b5m1XP1.png" group-title="Deportes", RTA Sport | FHD | Afghanistan
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EIyS8Jx.png" group-title="Deportes", Omán Sports | HD | Omán
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kSY4kCS.png" group-title="Deportes", Omán Sports | HD | Omán
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Duck7Ra.png" group-title="Deportes", Dubai Sports 2 | HD | Emiratos Árabes Unidos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/adxAJZO.png" group-title="Deportes", Dubai Sports 2 | HD | Emiratos Árabes Unidos
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gv5DMJj.png" group-title="Deportes", Dubai Sports 3 | HD | Emiratos Árabes Unidos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WJpAink.png" group-title="Deportes", Dubai Sports 3 | HD | Emiratos Árabes Unidos
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/suGWlaj.png" group-title="Deportes", Sharjah Sports | HD | Emiratos Árabes Unidos
