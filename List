@@ -495,9 +495,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13231&avod=1&coppa=0&td=6&
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DSo0Ii6.png" group-title="Runtime", Runtime Romance | HD | USA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11833&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Musica", [COLOR lime]-Musica-[/COLOR] 
+https://i.imgur.com/Xvfqdgc.mp4
+
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Radios Pop Asia", -[COLOR cyan]Radios Pop Asia[/COLOR]-
 https://archive.org/download/2122omem/Zhang%20Fan%20-%20Man%20Chang%20Fei.mp3
-
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/lHOlF8S.jpeg" group-title="Radios Pop Asia", Akari Radio | Ecuador
 https://node-26.zeno.fm/0t952vqukfeuv?rj-ttl=5&rj-tok=AAABdotyp9AAJfddmGW35WrTxQ
