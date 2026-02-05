@@ -228,37 +228,40 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9NGAIom.png" group-title="Freetv.com", [COLOR lime]-Freetv.com-[/COLOR] 
 https://i.imgur.com/Xvfqdgc.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wVlMOqT.png" group-title="Freetv.com", Acción - Freetv.com | HD | USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wVlMOqT.png" group-title="Freetv.com", Acción - Freetv.com | HD | Estados Unidos
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1fpj9do.png" group-title="Freetv.com", Banda - Freetv.com | HD | USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1AZHQDR.png" group-title="Freetv.com", Asia - Freetv.com | HD | Estados Unidos
+https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1fpj9do.png" group-title="Freetv.com", Banda - Freetv.com | HD | Estados Unidos
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hI2XrLv.png" group-title="Freetv.com", Clásicos - Freetv.com | HD | USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hI2XrLv.png" group-title="Freetv.com", Clásicos - Freetv.com | HD | Estados Unidos
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoco-lgco/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jRklf9n.png" group-title="Freetv.com", Drama - Freetv.com | HD | USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jRklf9n.png" group-title="Freetv.com", Drama - Freetv.com | HD | Estados Unidos
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hzd7R6D.png", Estelar - Freetv.com | HD | USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hzd7R6D.png", Estelar - Freetv.com | HD | Estados Unidos
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QRGNyqU.png" group-title="Freetv.com", Familia - Freetv.com | HD | USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QRGNyqU.png" group-title="Freetv.com", Familia - Freetv.com | HD | Estados Unidos
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VGotyyh.png" group-title="Freetv.com", Hits - Freetv.com | HD | USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VGotyyh.png" group-title="Freetv.com", Hits - Freetv.com | HD | Estados Unidos
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VRpwC5I.png" group-title="Freetv.com", Live - Freetv.com | HD | USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VRpwC5I.png" group-title="Freetv.com", Live - Freetv.com | HD | Estados Unidos
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RsYFP0m.png" group-title="Freetv.com", Saber Más - Freetv.com | HD | USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RsYFP0m.png" group-title="Freetv.com", Saber Más - Freetv.com | HD | Estados Unidos
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5cktWmd.png" group-title="Freetv.com", Sureño - Freetv.com | HD | USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5cktWmd.png" group-title="Freetv.com", Sureño - Freetv.com | HD | Estados Unidos
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mgJxWsj.png" group-title="Freetv.com", Terror - Freetv.com | HD | USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mgJxWsj.png" group-title="Freetv.com", Terror - Freetv.com | HD | Estados Unidos
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Series y Peliculas", [COLOR lime]- Series y Peliculas -[/COLOR] 
@@ -474,25 +477,25 @@ https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WzXFDQ8.jpeg" group-title="Runtime", [COLOR lime]-Runtime-[/COLOR] 
 https://i.imgur.com/Xvfqdgc.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LpMa2f7.png" group-title="Runtime", Runtime Acción | HD | USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LpMa2f7.png" group-title="Runtime", Runtime Acción | HD | Estados Unidos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13232&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rYcrfn7.png" group-title="Runtime", Runtime Cine Espanto | HD | USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rYcrfn7.png" group-title="Runtime", Runtime Cine Espanto | HD | Estados Unidos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11786&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WFN7aXa.png" group-title="Runtime", Runtime Comedia | HD | USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WFN7aXa.png" group-title="Runtime", Runtime Comedia | HD | Estados Unidos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13529&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HEjrLU5.png" group-title="Runtime", Runtime Crimen | HD | USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HEjrLU5.png" group-title="Runtime", Runtime Crimen | HD | Estados Unidos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11825&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q5Tabgn.png" group-title="Runtime", Runtime Familia | HD | USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q5Tabgn.png" group-title="Runtime", Runtime Familia | HD | Estados Unidos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13228&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vcPA5VE.png" group-title="Runtime", Runtime TV y Peliculas | HD | USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vcPA5VE.png" group-title="Runtime", Runtime TV y Peliculas | HD | Estados Unidos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13231&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DSo0Ii6.png" group-title="Runtime", Runtime Romance | HD | USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DSo0Ii6.png" group-title="Runtime", Runtime Romance | HD | Estados Unidos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11833&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Musica", [COLOR lime]-Musica-[/COLOR] 
