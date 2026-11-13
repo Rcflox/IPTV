@@ -55,10 +55,10 @@ https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=D3m0M3UCLWeb&
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DDFsg6K.png" group-title="Animación", Energeek Fan | FHD | Chile
-https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=D3m0
+https://cl-2.backend.energeek.cl/bkp/egfan/mobile/index.m3u8?token=IPTVgh26
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CvyMthC.png" group-title="Animación", Energeek Radio | FHD | Chile
-https://cl-2.backend.energeek.cl/bkp/egradioweb/index.m3u8?token=D3m0
+https://cl-2.backend.energeek.cl/bkp/egradio/mobile/index.m3u8?token=IPTVgh26
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/62A6Ehh.png" group-title="Animación", Gospel Cartoon | SD | Brasil
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
