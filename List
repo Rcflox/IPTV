@@ -51,13 +51,13 @@ https://emisoras.hn:8081/diostevekids/index.m3u8?PlaylistM3UCL
 #EXTINF: -1 tvg-logo="https://i.imgur.com/B82cCHT.png" group-title="Animación", Dreiko TV | HD | Panamá
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/DDFsg6K.png" group-title="Animación", Energeek | FHD | Chile
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Wnf9oeJ.png" group-title="Animación", Energeek | FHD | Chile
 https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9VPCgmx.png" group-title="Animación", Energeek Fan | FHD | Chile
+#EXTINF: -1 tvg-logo="https://i.imgur.com/DDFsg6K.png" group-title="Animación", Energeek Fan | FHD | Chile
 https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/3sENz3K.png" group-title="Animación", Energeek Radio | FHD | Chile
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CvyMthC.png" group-title="Animación", Energeek Radio | FHD | Chile
 https://cl-2.backend.energeek.cl/bkp/egradioweb/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Iuydj68.png" group-title="Animación", EpicToon | FHD | Chile
