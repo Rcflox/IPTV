@@ -171,6 +171,9 @@ https://cdn3.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ASVZx4w.jpeg" group-title="Deportes", TVRI Sport | HD | Indonesia
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LQheWXW.png" group-title="Filmrise", [COLOR lime]-Filmrise-[/COLOR] 
+https://i.imgur.com/Xvfqdgc.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9NGAIom.png" group-title="Freetv.com", [COLOR lime]-Freetv.com-[/COLOR] 
 https://i.imgur.com/Xvfqdgc.mp4
 
