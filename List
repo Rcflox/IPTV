@@ -52,7 +52,7 @@ https://emisoras.hn:8081/diostevekids/index.m3u8?PlaylistM3UCL
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Wnf9oeJ.png" group-title="Animación", Energeek | FHD | Chile
-https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=D3m0
+https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=D3m0M3UCLWeb&
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DDFsg6K.png" group-title="Animación", Energeek Fan | FHD | Chile
 https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=D3m0
