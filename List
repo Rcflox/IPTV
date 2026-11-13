@@ -63,9 +63,6 @@ https://cl-2.backend.energeek.cl/bkp/egradioweb/index.m3u8?token=D3m0
 #EXTINF: -1 tvg-logo="https://i.imgur.com/62A6Ehh.png" group-title="Animación", Gospel Cartoon | SD | Brasil
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/W5hFumt.png" group-title="Animación", Ipe | HD | Perú
-https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/6yOjh3z.png" group-title="Animación", Kuriakos Kids | FHD | Brasil
 https://w2.manasat.com:443/kkids/smil:kkids.smil/playlist.m3u8
 
